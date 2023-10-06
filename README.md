@@ -2,7 +2,7 @@
 
 - 💻 Estudando desenvolvimento
 - 📚 Atualmente conhecendo HTML, CCS e JavaScript
-- 🎓 Também sou Bel. em Direito e Policial Militar
+- 🎓 Também sou Bel. em Direito e Servidora Pública
 - 🌎 Adoro viajar e experimentar novas comidas
 - ❤️ Amo aprender coisas novas! <br/>
 <hr>
