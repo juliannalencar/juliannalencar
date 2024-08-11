@@ -1,7 +1,7 @@
 ##  Olá, eu sou a Julianna! 🙋‍♀️
 
 - 💻 Graduanda em Análise e Desenvolvimento de Sistemas (Unifor)
-- 📊 Apaixonada por Análise de Dados
+- 📊 Desenvolvedora Front-End
 - 🎓 Também sou Bel. em Direito e Servidora Pública
 - 🌎 Adoro viajar e experimentar novas comidas
 - ❤️ Amo aprender coisas novas! <br/>
